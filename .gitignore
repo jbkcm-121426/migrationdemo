@@ -1,0 +1,34 @@
+# Visual Studio
+.vs/
+bin/
+obj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# IIS Express
+.vs/config/applicationhost.config
+
+# Build results
+Debug/
+Release/
+
+# NuGet
+packages/
+*.nupkg
+
+# Logs
+App_Data/logs/
+*.log
+
+# Others
+*.psess
+*.vsp
+*.vspx
+*.coverage
+*.cache
+_ReSharper*/
+*.DotSettings.user
+
+
